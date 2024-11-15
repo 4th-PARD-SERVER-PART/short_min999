@@ -1,4 +1,4 @@
-![shortcarton_erd_without_relationship](https://github.com/user-attachments/assets/f5f52d34-ed31-4f5e-9f63-b1eefcb9ed55)![image](https://github.com/user-attachments/assets/cd7ebe98-d2e1-44dc-944c-b2b9fe26c978)
+
 # **Keeper**
 
 ## **프로젝트 소개**
